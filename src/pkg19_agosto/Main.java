@@ -65,7 +65,9 @@ public class Main {
         System.out.println("Texto curto: " + textoCurto);
         System.out.println(" Sexo: " + sexo);
         
+        /* alteracao
         
+        */
 
        
     }
